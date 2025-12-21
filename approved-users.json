@@ -1,23 +1,5 @@
 {
   "approved": [
-    "6aa070e8",
-    "fdd1c14",
-    "140d3657", 
-    "32b9f548",
-    "7e01878e",
-    "2c4bc31d",
-    "56b22f4a",
-    "6aa07e8",
-    "4058b08d",
-    "548d1bc7",
-    "55b4c968",
-    "72f4fe74",
-    "442fe931"
-  ],
-  "pending": {},
-  "settings": {
-    "max_users": 50,
-    "allow_auto_approve": false,
-    "version": "1.0"
-  }
+    "F07AE55ABC02445E",
+  ]
 }
